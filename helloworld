@@ -1,3 +1,12 @@
 echo "Hellow world"
 echo "This is git repository of Shubham Kumar"
 echo "We are testing GIT and Jenkins"
+
+$a=10
+$b=20
+
+if [ $a == $b ]; then 
+echo "not equal"
+else
+echo "equal"
+fi
